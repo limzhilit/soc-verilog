@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/ATU/VS files/Zelig/VGAstripes/VGAstripes.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/ATU/VS files/Zelig/VGAstripes/VGAstripes.srcs/sources_1/imports/VGAStripesSourceCode-20261021/Testbench.v,1792597491,verilog,,,,Testbench,,,../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/ATU/VS files/Zelig/VGAstripes/VGAstripes.srcs/sources_1/imports/VGAStripesSourceCode-20261021/VGAColourStripes.v,1792594723,verilog,,C:/ATU/VS files/Zelig/VGAstripes/VGAstripes.srcs/sources_1/imports/VGAStripesSourceCode-20261021/VGASync.v,,ColourStripes,,,../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/ATU/VS files/Zelig/VGAstripes/VGAstripes.srcs/sources_1/imports/VGAStripesSourceCode-20261021/VGASync.v,1792588615,verilog,,C:/ATU/VS files/Zelig/VGAstripes/VGAstripes.srcs/sources_1/imports/VGAStripesSourceCode-20261021/Testbench.v,,VGASync,,,../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/ATU/VS files/Zelig/VGAstripes/VGAstripes.srcs/sources_1/imports/VGAStripesSourceCode-20261021/VGATop.v,1792588615,verilog,,,,VGATop,,,../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef;../../../../VGAstripes.ip_user_files/ipstatic,,,,,

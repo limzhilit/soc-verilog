@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+
+ 2 Bit Adder with Registers Test
+
+$stop called at time : 90 ns : File "C:/ATU/VS files/Zelig/Adder2BitReg/Adder2BitReg.srcs/sim_1/imports/Downloads/Testbench.v" Line 58
