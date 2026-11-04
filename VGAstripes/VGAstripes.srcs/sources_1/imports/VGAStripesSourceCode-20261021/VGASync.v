@@ -32,10 +32,10 @@ always@(posedge clk25) begin
                 vcount <= 0;
         end
     
-    if(hcount > (HDISP + HFP) && hcount <= (HDISP + HFP + HPW))
-        hsync <= 0;
+    if(hcount > (HDISP + HFP) && hcount <= (HDISP + HFP + HPW)) // duration of horizontal pulse width range
+        hsync <= 0; // active low 
     else
-        hsync <= 1;
+        hsync <= 1; // inactive
                  
     if(vcount >= (VDISP + VFP) && vcount < (VDISP + VFP + VPW))
         vsync <= 0;
@@ -43,7 +43,7 @@ always@(posedge clk25) begin
         vsync <= 1;
     
     if (hcount < HDISP && vcount < VDISP)
-        vid_on <= 1;
+        vid_on <= 1; // in pixel range, send data
      else
         vid_on <= 0;        
 end
